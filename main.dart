@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                   angle: (3.1416*7)/4,
                   child: const Center(
                     child: Text(
-                    'González García David Elias\n\nGonzález Gómez Alejandro\n\nMiramontes Carsolio Carla Ivette\n\nSevilla Rivera Eder Eduardo',  // Our names B)
+                    'González García David Elias\npineco2510@gmail.com\n\nGonzález Gómez Alejandro\nalejandrogogo02@gmail.com\n\nMiramontes Carsolio Carla Ivette\ncarlitaivettemc@gmail.com\n\nSevilla Rivera Eder Eduardo\ncevillaedgar1@gmail.com',  // Our names B)
                     textAlign: TextAlign.center,  // To Allign the text in the centre of the container
                     ),
                   ),
